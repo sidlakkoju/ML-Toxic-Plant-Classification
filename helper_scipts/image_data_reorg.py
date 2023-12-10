@@ -31,7 +31,6 @@ def get_unique_filename(directory, filename):
         count += 1
     return new_filename
 
-# Example usage
 source_directory = '/Users/siddharthlakkoju/Documents/Semester 5/Machine Learning/Project/iNaturalist/nontoxic_images'
 destination_directory = '/Users/siddharthlakkoju/Documents/Semester 5/Machine Learning/Project/virginia_data_reorg/non_toxic'
 
