@@ -1,0 +1,15 @@
+.DS_Store
+.ipynb_checkpoints/
+archive/
+cnn1/
+reorg_data/
+resnet.mlpackage/
+Toxic_Plant_Classifier.mlproj/
+transfer_p1/
+transfer_p1_virginia/
+transfer_p2/
+transfer_p2_virginia/
+venv/
+tpc-imgs/
+virginia_data_reorg/
+
