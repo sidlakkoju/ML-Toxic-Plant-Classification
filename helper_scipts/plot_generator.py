@@ -25,4 +25,3 @@ model.summary()
 
 # Plot the model
 plot_model(model, to_file='model_plot_resnet.png', show_shapes=True, show_layer_names=True)
-
